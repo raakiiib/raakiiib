@@ -1,6 +1,8 @@
 <!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there,%20I'm%20Rakibul Hasan!&fontSize=50&animation=fadeIn" width="100%" />
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Hi%20there,%20I'm%20Rakibul Hasan!&fontSize=42&fontColor=ffffff&animation=fadeIn&v=1" width="100%" />
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=667EEA&center=true&vCenter=true&width=500&lines=Software+Engineer;Building+scalable+web+apps;Passionate+about+Open+Source;Tech+Enthusiast" alt="Typing SVG" />
