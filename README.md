@@ -1,7 +1,5 @@
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there,%20I'm%20Rakibul Hasan!&fontSize=50&animation=fadeIn" width="100%" />
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Hello%20World!&fontSize=42&fontColor=ffffff&animation=fadeIn&v=1)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Hi%20there,%20I'm%20Rakibul Hasan!&fontSize=42&fontColor=ffffff&animation=fadeIn&v=1)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
